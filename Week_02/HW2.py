@@ -75,8 +75,8 @@ def question_c(n):
         key = random.choice([1, 2])
         if coin_faces[coin][key] == "H":
             list_coins.remove(coin)
-        coin = random.choice(list_coins)
-        list_faces.append(coin_faces[coin][random.choice([1, 2])])
+            coin = random.choice(list_coins)
+            list_faces.append(coin_faces[coin][random.choice([1, 2])])
         
     for face in list_faces:
         if face == "H":
