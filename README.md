@@ -6,5 +6,7 @@ You may install any mindmap soft to read the note such as Freelane.
 
 ##Week 01:
 
-##Week 02
+##Week 02:
+
+##Week 03:
 
